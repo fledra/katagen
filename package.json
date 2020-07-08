@@ -1,10 +1,10 @@
 {
   "name": "katagen",
-  "version": "1.0.0",
-  "description": "a simple interactive command line tool to generate and manage kata solution repositories",
+  "version": "1.0.1",
+  "description": "A simple interactive CLI to generate and manage repositories for kata solutions.",
   "main": "src/katagen.js",
+  "bin": "src/katagen.js",
   "scripts": {
-    "start": "node src/katagen.js",
     "lint": "eslint src/"
   },
   "repository": {
