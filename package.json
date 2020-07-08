@@ -1,6 +1,6 @@
 {
   "name": "katagen",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple interactive CLI to generate and manage repositories for kata solutions.",
   "main": "src/katagen.js",
   "bin": "src/katagen.js",
@@ -25,6 +25,7 @@
   "homepage": "https://github.com/barandasdemir/katagen#readme",
   "dependencies": {
     "inquirer": "^7.0.4",
+    "minimist": "^1.2.5",
     "node-fetch": "^2.6.0"
   },
   "devDependencies": {
