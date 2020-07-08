@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/barandasdemir/katagen.git"
+    "url": "git+ssh://git@github.com/barandasdemir/katagen.git"
   },
   "keywords": [
     "codewars",
@@ -20,9 +20,9 @@
   "author": "Baran Dasdemir <dasdemirbaran@gmail.com> (https://banabaran.de/)",
   "license": "GPL-3.0-only",
   "bugs": {
-    "url": "https://gitlab.com/barandasdemir/katagen/issues"
+    "url": "https://github.com/barandasdemir/katagen/issues"
   },
-  "homepage": "https://gitlab.com/barandasdemir/katagen#readme",
+  "homepage": "https://github.com/barandasdemir/katagen#readme",
   "dependencies": {
     "inquirer": "^7.0.4",
     "node-fetch": "^2.6.0"
