@@ -1,6 +1,6 @@
 {
   "name": "katagen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple interactive CLI to generate and manage repositories for kata solutions.",
   "main": "src/katagen.js",
   "bin": "src/katagen.js",
